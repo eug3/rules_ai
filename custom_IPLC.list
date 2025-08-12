@@ -29,7 +29,6 @@
 		},
 		{
 			"process_path": [
-				"/Applications/Trae.app/Contents/MacOS/Electron",
 				"/Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper",
 				"/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)",
 				"/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper"
