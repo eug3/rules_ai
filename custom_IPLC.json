@@ -25,9 +25,11 @@
       ]
     },
     {
-      "process_path_regex": [
-        ".*/Notion Helper$",
-        ".*/Code Helper( \\(Plugin\\))?$"
+      "process_name": [
+        "Notion Helper",
+        "Code Helper",
+        "Code Helper (Plugin)",
+        "ChatGPT"
       ]
     }
   ]
