@@ -1,0 +1,34 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": ["upload.youtube.com", "api.x.ai"],
+      "domain_suffix": [
+        "immersivetranslate.com",
+        "website-files.com",
+        "yuansfer.com",
+        "namesilo.com",
+        "modelcontextprotocol.io",
+        "figma.com",
+        "dnscf.vip",
+        "applicationinsights.azure.com",
+        "trafficmanager.net",
+        "oraclecloud.com",
+        "openrouter.ai",
+        "cloudfront.net",
+        "dotnet.microsoft.com",
+        "githubcopilot.com",
+        "githubnext.com",
+        "github.com",
+        "crbug.com",
+        "chromestatus.com"
+      ]
+    },
+    {
+      "process_path_regex": [
+        ".*/Notion Helper$",
+        ".*/Code Helper( \\(Plugin\\))?$"
+      ]
+    }
+  ]
+}
