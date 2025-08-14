@@ -22,13 +22,6 @@
         "github.com",
         "crbug.com",
         "chromestatus.com"
-      ],
-      "process_name": [
-        "Notion Helper",
-        "Code Helper",
-        "Code Helper (Plugin)",
-        "ChatGPT",
-        "ChatGPTHelper"
       ]
     }
   ]
