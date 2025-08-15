@@ -9,7 +9,9 @@
         "golang.org",
         "npmjs.com",
         "sagernet.org"
-      ]
+      ],
+      "domain_keyword": ["z-library"],
+      "domain": []
     }
   ]
 }
