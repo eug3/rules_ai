@@ -22,7 +22,13 @@
         "crbug.com",
         "chromestatus.com",
         "github.com"
+      ],
+      "process_name": [
+        "Code Helper (Plugin)",
+        "Code Helper",
+        "ChatGPT"
       ]
+       
     }
   ]
 }
