@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pypi.org",
+        "golang.org",
+        "npmjs.com",
+        "sagernet.org"
+      ]
+    }
+  ]
+}

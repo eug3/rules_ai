@@ -5,7 +5,6 @@
       "domain": ["upload.youtube.com", "api.x.ai"],
       "domain_suffix": [
         "immersivetranslate.com",
-        "website-files.com",
         "yuansfer.com",
         "namesilo.com",
         "modelcontextprotocol.io",
@@ -21,7 +20,8 @@
         "githubnext.com",
         "github.com",
         "crbug.com",
-        "chromestatus.com"
+        "chromestatus.com",
+        "github.com"
       ]
     }
   ]
