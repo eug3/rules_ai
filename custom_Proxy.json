@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "arxiv.org"
+        "arxiv.org",
+        "huggingface.co"
       ],
       "domain_keyword": [],
       "domain": []
