@@ -9,7 +9,8 @@
         "golang.org",
         "npmjs.com",
         "sagernet.org",
-        "notion.so"
+        "notion.so",
+        "docker.com "
       ],
       "domain_keyword": ["z-library"],
       "domain": []
