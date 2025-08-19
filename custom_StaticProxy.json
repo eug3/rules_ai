@@ -11,7 +11,11 @@
         "sagernet.org",
         "notion.so",
         "docker.com",
-        "docker.io"
+        "docker.io",
+        "dockerhub.com",
+        "dockerusercontent.com",
+        "dockerusercontent.io",
+        "debain.org"
       ],
       "domain_keyword": ["z-library"],
       "domain": []
