@@ -4,8 +4,8 @@
     {
       "domain_suffix": [
         "arxiv.org",
-        "huggingface.co",
-        "docker.com"
+        "huggingface.co"
+
       ],
       "domain_keyword": [],
       "domain": []
