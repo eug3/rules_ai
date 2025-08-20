@@ -15,7 +15,8 @@
         "dockerhub.com",
         "dockerusercontent.com",
         "dockerusercontent.io",
-        "debain.org"
+        "debain.org",
+        "pythonhosted.org"
       ],
       "domain_keyword": ["z-library"],
       "domain": []
