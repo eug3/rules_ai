@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qidongcha.com",
+        "qixin.com"
+      ],
+      "domain_keyword": [
+        "10jqka"
+      ],
+      "domain": []
+    }
+  ]
+}
