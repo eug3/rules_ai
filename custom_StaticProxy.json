@@ -18,9 +18,14 @@
         "debain.org",
         "pythonhosted.org",
         "ghcr.io"
+        
       ],
       "domain_keyword": ["z-library"],
-      "domain": []
+      "domain": [
+        "browser.events.data.microsoft.com",
+        "admin.microsoft.com",
+        "mobile.events.data.microsoft.com"
+      ]
     }
   ]
 }
