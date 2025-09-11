@@ -4,8 +4,10 @@
     {
       "domain_suffix": [
         "arxiv.org",
-        "huggingface.co"
-
+        "huggingface.co",
+        "office.com",
+        "office.net",
+        "microsoft.com"
       ],
       "domain_keyword": [],
       "domain": []
