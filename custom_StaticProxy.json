@@ -17,7 +17,8 @@
         "dockerusercontent.io",
         "debain.org",
         "pythonhosted.org",
-        "ghcr.io"
+        "ghcr.io",
+        "alpinelinux.org"
         
       ],
       "domain_keyword": ["z-library"],
