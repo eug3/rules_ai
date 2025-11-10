@@ -18,10 +18,10 @@
         "debain.org",
         "pythonhosted.org",
         "ghcr.io",
-        "alpinelinux.org"
-        
+        "alpinelinux.org",
+        "perplexity.ai"
       ],
-      "domain_keyword": ["z-library"],
+      "domain_keyword": ["z-library","perplexity"],
       "domain": [
         "browser.events.data.microsoft.com",
         "admin.microsoft.com",
