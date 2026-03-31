@@ -24,7 +24,13 @@
         "github.com",
         "crbug.com",
         "chromestatus.com",
-        "github.com"
+        "apple-relay.apple.com",
+        "apple-relay.cloudkit.com",
+        "smoot.apple.com",
+        "guzzoni.apple.com",
+        "dejavu.apple.com",
+        "aiproxy.apple.com",
+        "apple-cloudkit.com"
       ]
     }
   ]
